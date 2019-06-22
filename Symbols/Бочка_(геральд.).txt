@@ -1,0 +1,25 @@
+[
+, 
+Muid
+Futaille de la capacité d’un muid.
+1905 Futaille de la capacité d’un muid.
+, [ghhe]
+, 
+Baril:
+, Barillet:
+, Tonneau:
+, Barillé: «Chargé de barils».
+, Caque de poudre à canon
+Voir Baril.
+, [ghhe]
+, Tonne
+Sorte de grand tonneau, plus renflé par le milieu que le tonneau lui-même.
+1905 Sorte de grand tonneau, plus renflé par le milieu que le tonneau lui-même.
+, [ghhe]
+, Tirefond
+Anneau de fer dont les tonneliers se servent pour élever la dernière douve du fond d’un tonneau et la faire entrer dans la rainure.
+1905 Anneau de fer dont les tonneliers se servent pour élever la dernière douve du fond d’un tonneau et la faire entrer dans la rainure.
+, [ghhe]
+, 
+, 
+]

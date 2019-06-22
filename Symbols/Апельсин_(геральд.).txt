@@ -1,0 +1,5 @@
+[
+, Orange: «Fruit de l’oranger».
+, Oranger: «Arbre à feuilles persistantes, souvent présenté en caisse».
+, Orangier:
+]

@@ -1,0 +1,4 @@
+[
+, Alpaga: «Animal de la race des lamas».
+, Alpaca: «Voir Alpaga».
+]

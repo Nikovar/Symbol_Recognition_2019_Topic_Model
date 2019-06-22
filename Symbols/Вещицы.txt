@@ -1,0 +1,7 @@
+[
+, <a class="image" href="index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Trmk-a.jpg&amp;filetimestamp=20130519191356&amp;"><img alt="Trmk-a.jpg" data-file-height="1800" data-file-width="1800" height="480" src="imagesthumbeecTrmk-a.jpg480px-Trmk-a.jpg" srcset="imagesthumbeecTrmk-a.jpg720px-Trmk-a.jpg 1.5x, imagesthumbeecTrmk-a.jpg960px-Trmk-a.jpg 2x" width="480"><a>
+<a class="image" href="index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Trmk-b.jpg&amp;filetimestamp=20130519191423&amp;"><img alt="Trmk-b.jpg" data-file-height="1800" data-file-width="1800" height="160" src="imagesthumb33eTrmk-b.jpg160px-Trmk-b.jpg" srcset="imagesthumb33eTrmk-b.jpg240px-Trmk-b.jpg 1.5x, imagesthumb33eTrmk-b.jpg320px-Trmk-b.jpg 2x" width="160"><a>
+<a class="image" href="index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Trmk-c.jpg&amp;filetimestamp=20130519191454&amp;"><img alt="Trmk-c.jpg" data-file-height="1800" data-file-width="1800" height="160" src="imagesthumb22eTrmk-c.jpg160px-Trmk-c.jpg" srcset="imagesthumb22eTrmk-c.jpg240px-Trmk-c.jpg 1.5x, imagesthumb22eTrmk-c.jpg320px-Trmk-c.jpg 2x" width="160"><a>
+<a class="image" href="index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Trmk-d.jpg&amp;filetimestamp=20130519191439&amp;"><img alt="Trmk-d.jpg" data-file-height="1800" data-file-width="1800" height="160" src="imagesthumbff3Trmk-d.jpg160px-Trmk-d.jpg" srcset="imagesthumbff3Trmk-d.jpg240px-Trmk-d.jpg 1.5x, imagesthumbff3Trmk-d.jpg320px-Trmk-d.jpg 2x" width="160"><a>
+, ————————
+]

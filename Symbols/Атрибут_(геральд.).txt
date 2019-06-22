@@ -1,0 +1,10 @@
+[
+, Любое изменение окраски гербовой фигуры или прибавление другой фигуры, рассматриваемой как неотъемлемая часть первой.
+, Какое-либо орудие, животное или предмет постоянно придаваемые божеству, персонификации, святому или иному лицу как указание на их отличительные свойства, звания, события жизни (орёл Зевса, сова Афины, колесо Фортуны, весы Эквитас, крест Св. Андрея и т. д.).
+, attribut	attribute.
+[FRENCHGLOSSAR]
+, Attribut
+Se dit de tout ce qui est particulier à l'écu, aux pièces, aux figures héraldiques et autres.
+1864 Se dit en blason des différentes formes et dispositions des figures. 1901 Terme désignant tout ce qui est particulier à l'écu, aux pièces et aux figures héraldiques et autres.
+, [ghhe]
+]

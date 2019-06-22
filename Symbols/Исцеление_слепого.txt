@@ -1,0 +1,5 @@
+[
+<b>Поиск информации<b>
+, <a href="index.php%D0%98%D0%B8%D1%81%D1%83%D1%81_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81" title="Иисус Христос">Иисус Христос<a>
+, <a class="image" href="index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:00-00-796-001.jpg&amp;filetimestamp=20110821112530&amp;" title="Исцеление болящих"><img alt="Исцеление болящих" data-file-height="900" data-file-width="900" height="200" src="imagesthumb99100-00-796-001.jpg200px-00-00-796-001.jpg" srcset="imagesthumb99100-00-796-001.jpg300px-00-00-796-001.jpg 1.5x, imagesthumb99100-00-796-001.jpg400px-00-00-796-001.jpg 2x" width="200"><a>
+]

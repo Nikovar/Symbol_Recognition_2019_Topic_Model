@@ -1,0 +1,4 @@
+[
+armature	armature (ind).
+[FRENCHGLOSSAR]
+]
